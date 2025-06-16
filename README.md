@@ -40,3 +40,20 @@ The model is compiled with:
 loss = 'binary_crossentropy'
 optimizer = 'adam'
 metrics = ['accuracy']
+
+📈 Results
+The model achieved competitive results in classifying disaster-related tweets using simple yet effective deep learning techniques. It lays the groundwork for future experiments with more complex models like GRUs, Bi-LSTMs, or transformers.
+
+💡 Future Work
+Use pre-trained word embeddings (e.g., GloVe, Word2Vec).
+
+Implement attention mechanisms.
+
+Expand dataset for better generalization.
+
+Experiment with Transformer-based models like BERT.
+
+🧑‍💻 Author
+Cesar Pedraja
+Data Analyst | Deep Learning Enthusiast
+📍 Based in Canada
